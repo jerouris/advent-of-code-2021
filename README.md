@@ -1,3 +1,4 @@
+[![AoC2021](https://img.shields.io/badge/%20%F0%9F%8E%84adventofcode-2021-red)](https://adventofcode.com/2021) ![Language](https://img.shields.io/github/languages/top/cortinico/adventofcode-2021?color=blue&logo=kotlin)
 # advent-of-code-2021
 
 Welcome to the Advent of Code[^aoc] Kotlin project created by [jerouris][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
